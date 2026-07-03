@@ -1,1 +1,5 @@
 # kengg
+abii/
+..
+cuki./
+//.
